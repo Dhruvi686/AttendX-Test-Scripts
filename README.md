@@ -27,6 +27,12 @@ for a student attendance application.
 python login_test.py
 python attendance_test.py
 
+
+## Version Control
+This project uses Git for local version control
+and GitHub for remote collaboration.
+
+All test scripts are maintained in the repository.
 ## Purpose
 Git and GitHub are used to track changes,
 maintain commit history and share test scripts.
